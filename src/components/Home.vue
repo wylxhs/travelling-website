@@ -5,6 +5,7 @@
         <Icon />
         <Location />
         <Activity />
+        <Hot />
     </div>
 </template>
 
@@ -14,6 +15,7 @@
     import Icon from './pages/Icon'
     import Location from './pages/Location'
     import Activity from './pages/Activity'
+    import Hot from './pages/Hot'
 
     export default {
         components: {
@@ -21,7 +23,8 @@
             Swiper,
             Icon,
             Location,
-            Activity
+            Activity,
+            Hot
         }
    }
 </script>

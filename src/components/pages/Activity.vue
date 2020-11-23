@@ -24,7 +24,7 @@
         text-align: center;
         display: flex;
         position: relative;
-        margin-top: .3rem;
+        margin-top: .2rem;
     }
     .activity img{
         width: 100%;
