@@ -66,7 +66,8 @@
     }
 </script>
 
-<style>
+<style scoped lang="stylus">
+@import '~css/common.styl'
     .hot{
         margin-top: .2rem;
         font-size: .28rem;
@@ -112,6 +113,7 @@
         margin-top: .1rem;
         font-size: .28rem;
         text-align: center;
+        textOverflow();
     }
     .hot-item span.hot-mark{
         color: #ff7400;
