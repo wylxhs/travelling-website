@@ -113,7 +113,12 @@
         margin-top: .1rem;
         font-size: .28rem;
         text-align: center;
+        height: .32rem;
+        line-height: .32rem;
         textOverflow();
+    }
+    .hot-item span{
+        vertical-align: middle;
     }
     .hot-item span.hot-mark{
         color: #ff7400;

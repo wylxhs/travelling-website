@@ -1,6 +1,6 @@
 <template>
-    <div class="activity border-top">
-        <div class="act border-right">
+    <div class="activity border_top">
+        <div class="act border_right">
             <img src="../../assets/activity/a1.jpg" alt="">
         </div>
         <div class="water">

@@ -6,6 +6,8 @@
         <Location />
         <Activity />
         <Hot />
+        <Like />
+        <Vacation />
     </div>
 </template>
 
@@ -16,6 +18,8 @@
     import Location from './pages/Location'
     import Activity from './pages/Activity'
     import Hot from './pages/Hot'
+    import Like from './pages/Like'
+    import Vacation from './pages/Vacation'
 
     export default {
         components: {
@@ -24,7 +28,9 @@
             Icon,
             Location,
             Activity,
-            Hot
+            Hot,
+            Like,
+            Vacation
         }
    }
 </script>

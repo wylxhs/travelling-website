@@ -1,6 +1,6 @@
 <template>
-    <div class="location border-top">
-        <div class="loc border-right">
+    <div class="location border_top">
+        <div class="loc border_right">
             <span class="iconfont">
                 &#xe632;
             </span>
